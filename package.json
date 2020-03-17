@@ -2,10 +2,10 @@
     "name": "api-emisora",
     "version": "1.0.0",
     "description": "",
+    "private": true,
     "main": "index.js",
     "scripts": {
-        "start": "node  app.js",
-        "postinstall": "npm run build"
+        "start": "node  app.js"
     },
     "keywords": [],
     "author": "",
